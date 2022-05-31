@@ -20,3 +20,29 @@
     margin: 20px;
     color: #ffffff;
 }
+
+/* hero section */
+.hero-container {
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-container h1 {
+    background-color: #a54e4e;
+    color: #ffffff ;
+    font-size: 50px;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+/* meetup area*/
+.meetup-area {
+
+}
+
+.meetup-area h3 {
+    color: yellow;
+}
